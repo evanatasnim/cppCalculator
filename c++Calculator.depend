@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629026826 source:/home/ovi/projects/Languages/C++/CodeBlocks/c++Calculator/main.cpp
+	<iostream>
+	<cmath>
+
